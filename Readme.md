@@ -1,4 +1,6 @@
-# RPC debugger 
+# RPC debugger
+
+![Tests](https://github.com/wangzhe3224/pyrpc_debugger/actions/workflows/tests.yml/badge.svg)
 
 A RPC process that can be attached to any objects. After attach, a PRC process will open the attached object's 
  attributes and method. Note that attributes can only be access as function call in the client side ( :( a bit sad.
